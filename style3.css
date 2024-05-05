@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-size: 12px;
+}
+
+.performance-line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.assets-line {
+  fill: none;
+  stroke: crimson;
+  stroke-width: 2px;
+}
